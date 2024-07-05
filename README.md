@@ -17,7 +17,6 @@ Passionate about technology, computer assembly, programming, **arduinos** - rasp
 <a href="https://linkedin.com/in/ricardo-ortiz-v/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ricardo-ortiz-v/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19656186/sirrick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19656186/sirrick" height="30" width="40" /></a>
 <a href="https://kaggle.com/rickortizii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rickortizii" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mrricortoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrricortoz" height="30" width="40" /></a>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoOVE&layout=compact&langs_count=5&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
